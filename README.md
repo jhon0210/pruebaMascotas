@@ -12,3 +12,4 @@ En este repositorio esta alojada la prueba técnica.
 7. Si se ingresa como administrador tendra accesos a dos moudlos 'Administracion de Mascotas' y 'Administracion de Usuarios'
 8. En estos modulos se puede realizar la accion de CRUD.
 9. Si se ingresa con perfil de vendedor, solo tendra acceso al modulo 'Administracion de Mascotas'
+10. tengo que agregar este item para validar cambios en el repositorio remoto.
