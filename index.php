@@ -998,7 +998,7 @@ $codigo=$_SESSION['$clavePerfil2'];
           ,'</script>';
 
      }else{
-        echo "No esta haciendo la consulta";
+        echo "El exito ya llego, feliz";
         echo mysqli_query($conexion,$sqlVal2);
   }
   }
