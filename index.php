@@ -29,7 +29,7 @@ $codigo=$_SESSION['$clavePerfil2'];
   <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top" style="background:#0F0F23;">
     <div class="container d-flex align-items-center justify-content-between">
       <div class="d-flex align-items-center">
-         Bienvenido - Encuentra tu mascota aca
+         Bienvenido - Encuentra tu mascota aca y elije la mejor
       </div>
       <div class="d-flex align-items-center">
         <i class="icofont-addons"></i><a href="Login.php"> Cerrar Sesion</a>
